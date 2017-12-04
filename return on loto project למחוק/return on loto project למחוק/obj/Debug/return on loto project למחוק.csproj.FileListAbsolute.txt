@@ -1,6 +1,0 @@
-C:\yaffa_belete\return on loto project למחוק\return on loto project למחוק\bin\Debug\return on loto project למחוק.exe.config
-C:\yaffa_belete\return on loto project למחוק\return on loto project למחוק\bin\Debug\return on loto project למחוק.exe
-C:\yaffa_belete\return on loto project למחוק\return on loto project למחוק\bin\Debug\return on loto project למחוק.pdb
-C:\yaffa_belete\return on loto project למחוק\return on loto project למחוק\obj\Debug\return on loto project למחוק.csprojResolveAssemblyReference.cache
-C:\yaffa_belete\return on loto project למחוק\return on loto project למחוק\obj\Debug\return on loto project למחוק.exe
-C:\yaffa_belete\return on loto project למחוק\return on loto project למחוק\obj\Debug\return on loto project למחוק.pdb
