@@ -1,0 +1,12 @@
+C:\yaffa_belete\project Loto\project Loto\bin\Debug\project Loto.exe.config
+C:\yaffa_belete\project Loto\project Loto\bin\Debug\project Loto.exe
+C:\yaffa_belete\project Loto\project Loto\bin\Debug\project Loto.pdb
+C:\yaffa_belete\project Loto\project Loto\obj\Debug\project Loto.csprojResolveAssemblyReference.cache
+C:\yaffa_belete\project Loto\project Loto\obj\Debug\project Loto.exe
+C:\yaffa_belete\project Loto\project Loto\obj\Debug\project Loto.pdb
+C:\yaffa_belete\מבחנים ופרויקטים\project Loto\project Loto\bin\Debug\project Loto.exe.config
+C:\yaffa_belete\מבחנים ופרויקטים\project Loto\project Loto\bin\Debug\project Loto.exe
+C:\yaffa_belete\מבחנים ופרויקטים\project Loto\project Loto\bin\Debug\project Loto.pdb
+C:\yaffa_belete\מבחנים ופרויקטים\project Loto\project Loto\obj\Debug\project Loto.csprojResolveAssemblyReference.cache
+C:\yaffa_belete\מבחנים ופרויקטים\project Loto\project Loto\obj\Debug\project Loto.exe
+C:\yaffa_belete\מבחנים ופרויקטים\project Loto\project Loto\obj\Debug\project Loto.pdb
